@@ -1,3 +1,1 @@
-# bayesian_network
-Study
-Data set은 NHISS 국민건강보험공단에서 받으실 수 있습니다.
+# 개선된 트리 증강 나이브 베이즈 모형의 제안
